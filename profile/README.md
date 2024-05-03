@@ -15,4 +15,4 @@
 > This is the current key. DO NOT USE UNLESS USING TO PROGRAM RADIOS!!!
 > DO NOT CONNECT ANYTHING WIRELESSLY!!!!
 
-If you are looking for WPA keys for FMS [WPA Keys]([https://cheesy-arena-data.github.io/WPA-Keys/](https://github.com/Cheesy-Arena-Data/WPA-Keys/blob/47490a0c9ce9dac607e802df6fb6c26dd386b603/README.md)).
+If you are looking for WPA keys for FMS [WPA Keys](https://cheesy-arena-data.github.io/WPA-Keys/](https://github.com/Cheesy-Arena-Data/WPA-Keys/blob/47490a0c9ce9dac607e802df6fb6c26dd386b603/README.md)).
