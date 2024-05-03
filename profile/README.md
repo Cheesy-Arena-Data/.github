@@ -10,3 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+> [!CAUTION]
+> This is the current key. DO NOT USE UNLESS USING TO PROGRAM RADIOS!!!
+> DO NOT CONNECT ANYTHING WIRELESSLY!!!!
+
+If you are looking for WPA keys for FMS [WPA Keys](https://cheesy-arena-data.github.io/WPA-Keys/).
