@@ -1,0 +1,9 @@
+# Field Diagram
+<details>
+
+  <summary>This is the wired part of the Field Network</summary>
+
+  # Wired Field Network
+
+  [![](https://mermaid.ink/img/pako:eNp9kLFqwzAQhl9F3ORAPDTZNBTquElbSIe40MHyIKxLLWpL5XqqKSHvXlluIVl60_Hdx_3wn6D1BkFCnufKseUepXi1hEY8I4-e3pVLJ-WOvR_bThOLl1I5Eeeu3u6rRuT5rSiygw-MtJgvRYKb7BD_lGS_kETFmq13ohott92vt0leWUfvprlE9xNaXaHthNbNZcAuK_qA_ybskvhQT-JfxMweE1tdsafE5hBYwoA0aGtiPaeJKOAOB1Qg42p07AaUO0dPB_bVt2tBMgVcQvgwmrG0-o30APKo-89I0Vj2tJ_7TrWffwAGGXLg?type=png)](https://mermaid.live/edit#pako:eNp9kLFqwzAQhl9F3ORAPDTZNBTquElbSIe40MHyIKxLLWpL5XqqKSHvXlluIVl60_Hdx_3wn6D1BkFCnufKseUepXi1hEY8I4-e3pVLJ-WOvR_bThOLl1I5Eeeu3u6rRuT5rSiygw-MtJgvRYKb7BD_lGS_kETFmq13ohott92vt0leWUfvprlE9xNaXaHthNbNZcAuK_qA_ybskvhQT-JfxMweE1tdsafE5hBYwoA0aGtiPaeJKOAOB1Qg42p07AaUO0dPB_bVt2tBMgVcQvgwmrG0-o30APKo-89I0Vj2tJ_7TrWffwAGGXLg)
+</details>
